@@ -17,7 +17,7 @@ I split data in 3 sets
 
 | Normal Image  |  Covid Image | Pneumonia Image  |
 |---|---|---|
-|  <img src="notmal.png" width="250" height="250" title="Covid Image"/> |  <img src="covid.jpeg" width="250" height="250" title="Covid Image"/> |  <img src="pneumonia.png" width="250" height="250" title="Pneumonia Image"/> |
+|  <img src="normal.png" width="250" height="250" title="Normal Image"/> |  <img src="covid.jpeg" width="250" height="250" title="Covid Image"/> |  <img src="pneumonia.png" width="250" height="250" title="Pneumonia Image"/> |
 
 ### preprocessing and data augmentation. 
 for preprocessing Pixels be normalized between 0 and 1 and images are resized to Width=224 and Height=224.
