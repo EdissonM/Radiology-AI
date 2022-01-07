@@ -2,7 +2,7 @@
 
 Project 3: Train and Deploy a Radiology AI.
 
-We have a Dataset who contains 3 folders, namely:
+We have a Dataset that contains 3 folders, namely:
 Covid: This folder contains lung x-ray images with covid-19 disease
 Pneumonia: This folder contains lung x-ray images with pneumonia disease
 Normal: This folder contains normal functioning and healthy lung x-ray images
